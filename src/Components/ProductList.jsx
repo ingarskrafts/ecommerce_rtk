@@ -2,7 +2,7 @@ import React from 'react';
 import './ProductList.css'; 
 import { useDispatch, useSelector } from 'react-redux';
 import { addItemToCart } from './CartSlice'; // Action to add product to cart
-ss'
+
 
 
 const ProductList = () => { // Initialize the dispatch function to send actions to the Redux store
